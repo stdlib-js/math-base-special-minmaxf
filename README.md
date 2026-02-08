@@ -52,13 +52,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import minmaxf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minmaxf@esm/index.mjs';
+import minmaxf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minmaxf@v0.1.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minmaxf@esm/index.mjs';
+import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minmaxf@v0.1.1-esm/index.mjs';
 ```
 
 #### minmaxf( x, y )
@@ -127,7 +127,7 @@ var bool = ( v === out );
 
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import minmaxf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minmaxf@esm/index.mjs';
+import minmaxf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minmaxf@v0.1.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
